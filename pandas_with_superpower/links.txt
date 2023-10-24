@@ -1,0 +1,8 @@
+https://github.com/chris1610/sidetable
+https://modin.readthedocs.io/en/stable/getting_started/quickstart.html
+https://pdpipe.readthedocs.io/en/latest/
+https://github.com/lux-org/lux
+https://github.com/pyjanitor-devs/pyjanitor
+https://github.com/HHammond/PrettyPandas
+https://github.com/ramonhagenaars/nptyping
+https://github.com/ramonhagenaars/nptyping
